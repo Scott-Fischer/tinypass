@@ -1,3 +1,5 @@
 # Tinypass Client
 
-The start of a node Tinypass client.
+Fork of the start of a node Tinypass client.  
+
+Originally created by (https://github.com/blainsmith)
